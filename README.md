@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey Everyone! I'm Vivek 👋
 
-<!--
-**vivek075/vivek075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Java and Spring related modules
+- 🌱 I’m currently learning Artificial Intelligence
+- 💬 Ask me about Java Backend
+- 📫 How to reach me: singh.vivek075@gmail.com
 
-Here are some ideas to get you started:
+# Skills and Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` `Spring Framework`  `Apache Kafka`  `Apache Camel`
+
+`Shell Scripting`  `Docker`  `Openshift`
+
+`SQL`  `Angular`
+
+`AppDynamics`  `Teamcity`  `Nolio`  `Autosys`
