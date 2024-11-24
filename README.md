@@ -16,7 +16,8 @@ Messaging Systems: IBM MQ
 
 Cloud & DevOps: CI/CD pipelines, microservices, production-grade deployment setups
 
---
+---
+
 🧩 Key Skills:
 
 Designing and implementing integration solutions
@@ -27,7 +28,8 @@ Managing end-to-end production releases
 
 Team management and mentoring
 
---
+---
+
 📚 Interests:
 
 JVM internals
@@ -36,7 +38,8 @@ AI developments and their potential to reshape industries
 
 Performance tuning for large-scale applications
 
---
+---
+
 🚀 What You'll Find Here
 
 🔹 Professional Projects: Code demonstrating real-world implementations of Spring Boot, IBM MQ integrations, XSD validation, database persistence, and SFTP-based downstream communication.
@@ -51,7 +54,8 @@ Performance tuning for large-scale applications
     
     - Java application optimization techniques
 
---
+---
+
 📈 Stats & Achievements
 
 🏆 11+ years of hands-on experience
@@ -59,6 +63,8 @@ Performance tuning for large-scale applications
 🛠️ Built CI/CD pipelines for complex Java microservices
 
 🔍 Proficient in performance tuning and handling multi-million concurrent requests in production environments.
+
+---
 
 📬 Let's Connect!
 
