@@ -1,6 +1,7 @@
 👋 Hello, I'm Vivek Kumar Singh!
 
 🌟 Welcome to my GitHub profile! With over 11 years of professional experience in software development, I specialize in Java and Spring Framework technologies, creating robust, scalable, and efficient solutions. I am passionate about building high-quality software and continuously improving processes.
+
 --
 💻 About Me
 
@@ -13,6 +14,7 @@ Frameworks: Spring Boot, Spring Integration, Apache Camel
 Messaging Systems: IBM MQ
 
 Cloud & DevOps: CI/CD pipelines, microservices, production-grade deployment setups
+
 --
 🧩 Key Skills:
 
@@ -23,6 +25,7 @@ Optimizing performance of Java applications
 Managing end-to-end production releases
 
 Team management and mentoring
+
 --
 📚 Interests:
 
@@ -31,6 +34,7 @@ JVM internals
 AI developments and their potential to reshape industries
 
 Performance tuning for large-scale applications
+
 --
 🚀 What You'll Find Here
 
@@ -39,9 +43,13 @@ Performance tuning for large-scale applications
 🔹 Utilities & Tools: Production-grade utilities for handling high-concurrency database operations and other corner cases.
 
 🔹 Learning Resources:
+
     - Sample interview questions
+    
     - CI/CD setup guides
+    
     - Java application optimization techniques
+
 --
 📈 Stats & Achievements
 
